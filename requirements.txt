@@ -1,0 +1,5 @@
+# --index-url https://bxss.r0l.me/snyk-pip
+colorama==0.4.3
+pytest==6.2.2
+win_unicode_console==0.5
+pitabase @ git+https://github.com/snkpinkh1org/pitabase
